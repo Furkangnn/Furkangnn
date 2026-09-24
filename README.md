@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="Furkan Gönen. Retrieval, systems, and interfaces." width="100%" />
+<img src="./banner-hd.png" alt="Furkan Gönen. Retrieval, systems, and interfaces." width="100%" />
 
 The project to open first is [Groundline](https://github.com/Furkangnn/groundline): a retrieval assistant that cites the passage it used, and refuses when the documents do not contain the fact. The colorful one is [Chromabots](https://github.com/Furkangnn/chromabots): six robot cards, three inks, and a duel against the cards you did not pick. [Mote](https://github.com/Furkangnn/mote) is the robot on the map: it searches the city in the open, then walks.
 
