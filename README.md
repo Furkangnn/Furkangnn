@@ -1,12 +1,12 @@
 <img src="./banner-hd.png" alt="Furkan Gönen. Retrieval, systems, and interfaces." width="100%" />
 
-The project to open first is [Groundline](https://github.com/Furkangnn/groundline): a retrieval assistant that cites the passage it used, and refuses when the documents do not contain the fact. The colorful one is [Chromabots](https://github.com/Furkangnn/chromabots): six robot cards, three inks, and a duel against the cards you did not pick. [Mote](https://github.com/Furkangnn/mote) is the robot on the map: it searches the city in the open, then walks.
+I am Furkan. I like software I can open and follow: a socket, a page, a path on a map. If I cannot see why it did what it did, I do not trust it yet.
 
-A software engineer owns the whole path from a person's click to a saved result. I hold the work to that bar. The interface has to be clear on a phone and on a desk. The API has a contract another program can trust. Data stays consistent when two actions land at once. Risky paths have tests. Git history is readable, and a change can be reviewed, built, and shipped without a private ritual. When it breaks, logs and errors say where. Auth, secrets, and input are treated as part of the design, not a patch at the end. The same standard covers realtime calls, a booking flow, a bank transfer, and a small system tool: someone can use it, someone else can change it, and the next failure is easier to find.
+I move between the two ends. Some days that is C, a file manager, or how an operating system picks the next task. Other days it is a browser: a bank transfer, a ticket, a call that has to stay live. I want the person using it to understand the screen, and the next person reading the code to understand me.
 
 ## AI and RAG
 
-I care about systems that retrieve the right context and then answer. A RAG pipeline is a search step plus a model: chunk the source, embed it, store vectors, retrieve the closest passages, and ground the reply in those passages.
+What pulls me toward AI is the same habit. A model that answers without showing its source feels finished and is not. I want the retrieved passage on the table, the reason that passage won, and a clear stop when the documents do not contain the fact.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge" alt="Artificial Intelligence" />
@@ -23,7 +23,7 @@ I care about systems that retrieve the right context and then answer. A RAG pipe
   <img src="https://img.shields.io/badge/Evaluation-FB7185?style=for-the-badge&amp;labelColor=111111" alt="Evaluation" />
 </p>
 
-A useful answer cites what it retrieved. I watch chunk size, overlap, the embedding model, and whether the top passages actually contain the fact.
+I pay attention to the unglamorous parts: how the text is cut, what gets retrieved first, and whether the top passage actually holds the answer.
 
 ## Skills
 
