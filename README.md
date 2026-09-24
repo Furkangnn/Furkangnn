@@ -50,6 +50,7 @@ I pay attention to the unglamorous parts: how the text is cut, what gets retriev
 ## Selected work
 
 <p align="center">
+  <a href="https://github.com/Furkangnn/anchor"><img src="https://img.shields.io/badge/Anchor-LangChain%20RAG-1C3A2E?style=for-the-badge" alt="Anchor" /></a>
   <a href="https://github.com/Furkangnn/bookscapm"><img src="https://img.shields.io/badge/bookscapm-JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="bookscapm" /></a>
   <a href="https://github.com/Furkangnn/MiniFoodOrderingApp"><img src="https://img.shields.io/badge/MiniFoodOrdering-C%23-512BD4?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="MiniFoodOrdering" /></a>
   <a href="https://github.com/Furkangnn/WebRtc"><img src="https://img.shields.io/badge/WebRTC-realtime-22D3EE?style=for-the-badge&amp;logo=webrtc&amp;logoColor=black" alt="WebRtc" /></a>
