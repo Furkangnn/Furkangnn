@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="./banner.png" alt="Furkan Gönen" width="100%" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;pause=800&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Furkan+G%C3%B6nen;From+C+and+sockets+to+realtime+web;Systems%2C+APIs%2C+and+browser+interfaces" alt="Furkan Gönen" />
-</div>
+<img src="./banner.png" alt="Furkan Gönen. Retrieval, systems, and interfaces." width="100%" />
 
 The project to open first is [Groundline](https://github.com/Furkangnn/groundline): a retrieval assistant that cites the passage it used, and refuses when the documents do not contain the fact. The colorful one is [Chromabots](https://github.com/Furkangnn/chromabots): six robot cards, three inks, and a duel against the cards you did not pick. [Mote](https://github.com/Furkangnn/mote) is the robot on the map: it searches the city in the open, then walks.
 
