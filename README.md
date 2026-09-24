@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;pause=800&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Furkan+G%C3%B6nen;From+C+and+sockets+to+realtime+web;Systems%2C+APIs%2C+and+browser+interfaces" alt="Furkan Gönen" />
 </div>
 
-I write software that has to work at both ends of the stack. A file manager and an OS dispatcher in C. TCP sockets in C#. A food-ordering backend. A bank app with transfers, withdrawals, and a history you can actually read. A train-ticket flow. Realtime calls with WebRTC and Socket.io. A product carousel that keeps favorites in the browser. That range is the point: systems code and a page a person can click.
+A software engineer owns the whole path from a person's click to a saved result. I hold the work to that bar. The interface has to be clear on a phone and on a desk. The API has a contract another program can trust. Data stays consistent when two actions land at once. Risky paths have tests. Git history is readable, and a change can be reviewed, built, and shipped without a private ritual. When it breaks, logs and errors say where. Auth, secrets, and input are treated as part of the design, not a patch at the end. The same standard covers realtime calls, a booking flow, a bank transfer, and a small system tool: someone can use it, someone else can change it, and the next failure is easier to find.
 
 ## AI and RAG
 
