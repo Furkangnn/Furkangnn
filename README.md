@@ -59,10 +59,10 @@ A useful answer cites what it retrieved. I watch chunk size, overlap, the embedd
 
 <p align="center">
   <a href="https://github.com/Furkangnn">
-    <img src="https://github-readme-stats.vercel.app/api?username=Furkangnn&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=f97316&amp;icon_color=22d3ee&amp;text_color=fde68a" alt="GitHub stats" height="180" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Furkangnn&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=f97316&amp;icon_color=22d3ee&amp;text_color=fde68a" alt="GitHub stats" height="180" />
   </a>
   <a href="https://github.com/Furkangnn">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkangnn&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=facc15&amp;text_color=fbcfe8" alt="Top languages" height="180" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Furkangnn&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=facc15&amp;text_color=fbcfe8" alt="Top languages" height="180" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@ A useful answer cites what it retrieved. I watch chunk size, overlap, the embedd
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Furkangnn&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;column=6&amp;margin-w=8" alt="Trophies" />
+  <img src="https://github-profile-trophy-one.vercel.app/?username=Furkangnn&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;column=6&amp;margin-w=8" alt="Trophies" />
 </p>
 
 ## Contribution snake
