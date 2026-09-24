@@ -1,8 +1,10 @@
 <div align="center">
   <img src="./banner.png" alt="Furkan Gönen" width="100%" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;pause=800&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Hi%2C+I+am+Furkan+G%C3%B6nen;I+build+with+AI+and+RAG;Retrieval%2C+context%2C+and+clear+software" alt="Hi, I am Furkan Gönen" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;pause=800&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Furkan+G%C3%B6nen;From+C+and+sockets+to+realtime+web;Systems%2C+APIs%2C+and+browser+interfaces" alt="Furkan Gönen" />
 </div>
+
+I write software that has to work at both ends of the stack. A file manager and an OS dispatcher in C. TCP sockets in C#. A food-ordering backend. A bank app with transfers, withdrawals, and a history you can actually read. A train-ticket flow. Realtime calls with WebRTC and Socket.io. A product carousel that keeps favorites in the browser. That range is the point: systems code and a page a person can click.
 
 ## AI and RAG
 
@@ -25,17 +27,26 @@ I care about systems that retrieve the right context and then answer. A RAG pipe
 
 A useful answer cites what it retrieved. I watch chunk size, overlap, the embedding model, and whether the top passages actually contain the fact.
 
-## Languages
+## Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&amp;logo=socketdotio&amp;logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/WebRTC-22D3EE?style=for-the-badge&amp;logo=webrtc&amp;logoColor=black" alt="WebRTC" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/EJS-A91E50?style=for-the-badge" alt="EJS" />
+  <img src="https://img.shields.io/badge/SAP%20CAP-0A6ED1?style=for-the-badge&amp;logo=sap&amp;logoColor=white" alt="SAP CAP" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
 </p>
 
 ## Selected work
