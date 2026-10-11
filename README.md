@@ -71,9 +71,7 @@ I pay attention to the unglamorous parts: how the text is cut, what gets retriev
   <a href="https://github.com/Furkangnn">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Furkangnn&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=f97316&amp;icon_color=22d3ee&amp;text_color=fde68a" alt="GitHub stats" height="180" />
   </a>
-  <a href="https://github.com/Furkangnn">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Furkangnn&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=facc15&amp;text_color=fbcfe8" alt="Top languages" height="180" />
-  </a>
+  
 </p>
 
 <p align="center">
